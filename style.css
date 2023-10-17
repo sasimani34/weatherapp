@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #423E3B;
+}
+
+.container{
+    max-width: 500px;
+    width: 70%;
+    background: rgb(136, 205, 205);
+    color: #22181C;
+    margin: 100px auto 0;
+    padding: 40px 30px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+#search input,button {
+    outline: none;
+    box-shadow:none !important;
+    border:1px solid #ccc !important;
+}
